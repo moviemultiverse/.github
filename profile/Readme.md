@@ -1,4 +1,15 @@
-A Netflix , Prime Video , Hotstar Backend Cloned in depth 
+A Project that clones { Netflix , Prime Video , Hotstar } Full stack in depth 
+# Website to Use 
 # How to install 
-# How to contribute
+## For Android
+## For Windows
+## For IOS
+## For Linux
 # How to uninstall
+## For Android
+## For Windows
+## For IOS
+## For Linux
+# How to contribute
+# Contact US
+
